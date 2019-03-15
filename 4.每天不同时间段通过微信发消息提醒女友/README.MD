@@ -165,15 +165,6 @@ def send_message(your_message):
 ![](example2.png)
 
 
-## 完整源代码
-项目源代码在[GitHub仓库][5]
-
-项目持续更新，欢迎您[star本项目][5]
-
-
-
-# License
-[The MIT License (MIT)][6]
 
 
 
